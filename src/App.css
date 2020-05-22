@@ -1,0 +1,22 @@
+.App {
+  
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+header {
+  background-color: red;
+  height: 3em;
+}
+
+main {
+  display: flex;
+}
+
+footer {
+  background-color: red;
+  height: 3em;
+}
+
+
